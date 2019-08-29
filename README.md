@@ -1,5 +1,4 @@
-# fycs1920
-my first repro
+#include<stdio.h>
 main()
 {
 printf ("Hello World");
